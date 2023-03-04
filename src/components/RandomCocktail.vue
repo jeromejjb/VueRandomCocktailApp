@@ -106,6 +106,10 @@ li {
   border-radius: 5px;
   transition: background-color 0.3s ease;
 }
+.btn{
+    margin-left: 55%;
+
+}
 
 .btn:hover {
   background-color: #1f4c75;
